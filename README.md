@@ -1,9 +1,7 @@
 # TINDER Clone with REACT JS
 ### <a href="https://tinder-clone-ce8d7.firebaseapp.com/" target="_blank">🔴 LIVE DEMO</a>
 
-#### PREREQUISITES:
-- Sign up for a Firebase account <a href='https://firebase.google.com'>HERE</a>
-- Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
